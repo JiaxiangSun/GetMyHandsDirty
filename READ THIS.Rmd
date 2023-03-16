@@ -2,8 +2,13 @@
 title: "I need to go to countdown."
 author: "Jaixinag Snu"
 date: "2023-03-16"
-output: html_document
+output: 
+    html_document
 ---
+I think I can't go to countdown __this weekend__ as I have fetal deadline __this Sunday__. Actually I'm not sure whether I could go to the Articulation activity.
+Maybe I should go to countdown next Monday after BIOSCI761 or go there next Tuesday.
+
+Why this R markdown file cannot just let me see the output after clicking knit? Why it has to be opened in the folder?
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
